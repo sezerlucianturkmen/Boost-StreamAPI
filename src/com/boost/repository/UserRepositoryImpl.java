@@ -1,4 +1,4 @@
-package com.muhammet.repository;
+package com.boost.repository;
 
 import java.io.IOException;
 import java.net.URL;
@@ -6,12 +6,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import com.boost.repository.entity.User;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import com.muhammet.repository.entity.User;
 
 public class UserRepositoryImpl {
 

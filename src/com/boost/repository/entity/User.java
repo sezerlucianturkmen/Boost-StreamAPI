@@ -1,4 +1,4 @@
-package com.muhammet.repository.entity;
+package com.boost.repository.entity;
 
 import java.io.Serializable;
 
